@@ -1,0 +1,14 @@
+service: serverless-nodejs-example
+
+provider:
+  name: aws
+  runtime: nodjs12.13.1
+  stage: dev
+  region: us-east-1
+
+functions:
+  app:
+    handler: index.handler
+    events:
+      - http: ANY /
+      - http: 'ANY {proxy+}'
