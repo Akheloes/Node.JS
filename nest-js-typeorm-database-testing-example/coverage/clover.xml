@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1585771671582" clover="3.2.0">
+  <project timestamp="1585771671583" name="All files">
+    <metrics statements="26" coveredstatements="25" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7" elements="34" coveredelements="32" complexity="0" loc="26" ncloc="26" packages="1" files="6" classes="6"/>
+    <file name="app.service.ts" path="C:\Users\Akheloes\Desktop\dev\Node.JS\nest-js-typeorm-database-testing-example\src\app.service.ts">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="database.module.ts" path="C:\Users\Akheloes\Desktop\dev\Node.JS\nest-js-typeorm-database-testing-example\src\database.module.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="database.providers.ts" path="C:\Users\Akheloes\Desktop\dev\Node.JS\nest-js-typeorm-database-testing-example\src\database.providers.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="generic.entity.ts" path="C:\Users\Akheloes\Desktop\dev\Node.JS\nest-js-typeorm-database-testing-example\src\generic.entity.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="genericEntity.providers.ts" path="C:\Users\Akheloes\Desktop\dev\Node.JS\nest-js-typeorm-database-testing-example\src\genericEntity.providers.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="genericEntity.service.ts" path="C:\Users\Akheloes\Desktop\dev\Node.JS\nest-js-typeorm-database-testing-example\src\genericEntity.service.ts">
+      <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
